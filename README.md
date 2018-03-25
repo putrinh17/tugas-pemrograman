@@ -1,0 +1,2 @@
+# tugas-pemrograman
+Penjelasan kode phython adalah perogram untuk menghitung,menampilkan data dan nilai mahasiswa dengan menggunakan list,module texttable pada PYTHON 3.6 di OS windows,perogram menghitung nilai tugas :30%,uts:35%,uas:35% ini menampilkan data nim,kelas,nilai UTS,dan nilai UAS,perogram ini dapat mempermudah kita untuk menginput nilai mahasiswa.dan hasil outputnya berbentuk table yang menggunakan modul texttable,sekian penjelasan dari saya mohon maaf jika ada kekurangan karna saya masih dalam tahap belajar,sekian terimakasih.
